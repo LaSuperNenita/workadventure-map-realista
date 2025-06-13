@@ -1,0 +1,8 @@
+{
+  "startMap": "maps/coworking.tmj",
+  "maps": [
+    { "name": "maps/coworking.tmj" },
+    { "name": "maps/eventos.tmj" },
+    { "name": "maps/privadas.tmj" }
+  ]
+}
